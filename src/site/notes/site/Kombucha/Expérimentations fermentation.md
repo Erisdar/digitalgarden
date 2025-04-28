@@ -2,13 +2,16 @@
 {"dg-publish":true,"permalink":"/site/kombucha/experimentations-fermentation/"}
 ---
 
+# Expérimentation 0
 
+J'ai pris un scoby épais du kombucha de ma coloc et je l'ai fait sécher sur le dos de passoire. ![IMG_20241021_132631.jpg](/img/user/IMG_20241021_132631.jpg)
+
+![IMG_20241021_132636.jpg](/img/user/IMG_20241021_132636.jpg)
+
+après séchage le motif de strie de la passoire est restée imprimé dans le cuir ![_1070727.jpg](/img/user/_1070727.jpg)
+je l'ai traité à l'huile végétale. Cela a rendu le cuir plus souple mais il faut sens arrêt en remettre et le matériau a beaucoup changer d'aspect. 
+les motifs qui reste sont intéressant, je veux continuer à creuser cette piste. 
 ## Expérimentation 1 
-
-###### 14/10 Rentrer à Bruxelles
- - [x] **Lancer fermentation [[recette KS\|recette KS]] #recette 
-	- [x] trouver un bac dans la semaine 
-	- [ ] organiser dépendance
 
 ###### 21/10/24
 Lancement fermentation
@@ -60,19 +63,25 @@ la première peau a un peu poussé dans la cave mais il faisait trop froid, je l
 ## Expérimentation 3
 
 la suivante a pousser environ 1mois et demi et est devenu super épaisse (~1cm fraiche)
-Je l'ai recolté le 11/01, nous sommes le 8 et le sechage n'est pas terminé. 
+Je l'ai recolté le 11/01, nous sommes le 8 et le séchage n'est pas terminé. 
 
 la peau a un bel aspect, il y a de légère irrégularité mais c'est assez minime. Je pense que tout disparaitra au sechage. 
 
-![Pasted image 20250118102006.png](/img/user/LowTech/KombuSkin/Pasted%20image%2020250118102006.png)
+![Pasted image 20250118102006.png](/img/user/Projets/LowTech/KombuSkin/Pasted%20image%2020250118102006.png)
 22/01/25
-La peau à sechée, elle a en effet perdu ses irrégularités au séchage mais de petites taches sont apparue sur sa surface. On dirait que les pigments ce sont concentré à des endroits aléatoires.
-Durant le sechage, elle a dégagé une intense odeur de vinaigre et elle continue de sentir fort une fois seche. 
+La peau à séchée, elle a en effet perdu ses irrégularités au séchage mais de petites taches sont apparue sur sa surface. On dirait que les pigments ce sont concentré à des endroits aléatoires.
+Durant le séchage, elle a dégagé une intense odeur de vinaigre et elle continue de sentir fort une fois sèche. 
+![_1070702.jpg](/img/user/_1070702.jpg)
 
+![_1070703.jpg](/img/user/_1070703.jpg)
+
+![_1070704.jpg](/img/user/_1070704.jpg)
+
+![_1070705.jpg](/img/user/_1070705.jpg)
 ## Expérience 3.5 
 
 22/01/25
-J'avais oublié mais j'avais aussi mixé une peau "ratée" trop fine et fragile et je l'avais placée dans un recipiant avec du sucre. 
+J'avais oublié mais j'avais aussi mixé une peau "ratée" trop fine et fragile et je l'avais placée dans un récipiant avec du sucre. 
 J'ai retrouvé ce recipient en checkant [[site/Kombucha/Expérimentations fermentation#Expérimentation 4\|#Expérimentation 4]] et il a formé une peau épaisse et particulièrement uniforme. Son odeur est aussi nettement moins vinaigrée que [[site/Kombucha/Expérimentations fermentation#Expérimentation 3\|#Expérimentation 3]], ce qui est une très bonne chose. 
 
 J'ai donc lancé [[site/Kombucha/Expérimentations fermentation#Expérimentation 5\|#Expérimentation 5]]
@@ -82,7 +91,7 @@ J'ai donc lancé [[site/Kombucha/Expérimentations fermentation#Expérimentation
 
 11/01 lancement, nourrit avec du thé et du sucre de canne blond pour allongé le starter qui contenait du thé, de l'eau de betterave, du sucre blanc, du sucre brun ... 
 22/01/25
-il c'est formé une peau regulière (11 jours) mais pleine de bulle. En essayant de retiré les bulles mais ça a froisée la peau et je ne suis pas parvenue a la remettre en place dans le bac. 
+il c'est formé une peau régulière (11 jours) mais pleine de bulle. En essayant de retiré les bulles mais ça a froissée la peau et je ne suis pas parvenue a la remettre en place dans le bac. 
 Je l'ai donc sorti et je l'ai mixé pour en faire [[site/Kombucha/Expérimentations fermentation#Expérimentation 5\|#Expérimentation 5]]
 Le liquide n'étais plus sucré mais très acide. Je l'ai donc enlevé (dans la chasse des toilettes pour le calcaire)
 

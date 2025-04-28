@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/home-page-presentation/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/site/home-page-presentation/"}
 ---
 
 # [[site/Portfolio/Portfolio - Démarche\|Portfolio - Démarche]]
