@@ -8,7 +8,7 @@ Pour refaire une fermentation :
   
 - 2L de thé noir sucré 
   - 500ml d'eau chaude 
-  - x cc de thé noir
+  - 2 petite cuillère à café de thé noir
    faire infuser 3min  
   - 60gr de sucre (blanc ou roux)/L (donc 120gr ici)
   quand c'est fondu je dilue avec 1,5L d'eau froide pour que ca atteigne une température ambiante) 
@@ -43,4 +43,4 @@ https://nicrunicuit.com/faire/fermenter/le-kombucha-le-ferment-venu-des-steppes-
 
 https://nicrunicuit.com/faire/fermenter/kombucha/sos-kombucha-precautions-erreurs-a-eviter/
 
-#[[site/Kombucha/Kombucha\|Kombucha]]
+# [[site/Kombucha/Kombucha\|Kombucha]]
