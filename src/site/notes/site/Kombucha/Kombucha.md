@@ -10,7 +10,6 @@ Je crois que l'on ne pourra pas rendre l'industrie durable de part de son lien e
 A cela préférer une biochimie de cuisine, une biochimie des singularités et des connaissances empiriques. C'est dans cette nécessité que s'inscrit mon projet de recherche sur le cuir de Kombucha.
 
 # [[site/Kombucha/Lexique\|Lexique]]
-# [[site/Kombucha/Timeline\|Timeline]]
 
 # [[site/Kombucha/Recette Boisson Kombucha\|Recette Boisson Kombucha]]
 
