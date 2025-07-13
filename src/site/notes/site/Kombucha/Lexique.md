@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/kombucha/lexique/"}
+{"dg-publish":true,"permalink":"/site/kombucha/lexique/","contentClasses":"kombucha","noteIcon":""}
 ---
 
 ### Kombucha
