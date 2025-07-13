@@ -4,7 +4,7 @@
 
 ### Kombucha
 
-[[modifier](https://fr.wikipedia.org/w/index.php?title=Vinaigre&veaction=edit&section=13 "Modifier la section : Kombucha") | [modifier le code](https://fr.wikipedia.org/w/index.php?title=Vinaigre&action=edit&section=13 "Modifier le code source de la section : Kombucha")]
+[[Wikipedia](https://fr.wikipedia.org/w/index.php?title=Vinaigre&veaction=edit&section=13 "Modifier la section : Kombucha") | [modifier le code](https://fr.wikipedia.org/w/index.php?title=Vinaigre&action=edit&section=13 "Modifier le code source de la section : Kombucha")]
 
 La [kombucha](https://fr.wikipedia.org/wiki/Kombucha "Kombucha") est un [breuvage alcoolisé](https://fr.wikipedia.org/wiki/Boisson_alcoolis%C3%A9e "Boisson alcoolisée") originaire de [Mongolie](https://fr.wikipedia.org/wiki/Mongolie "Mongolie"), issu d'une [solution aqueuse](https://fr.wikipedia.org/wiki/Solution_aqueuse "Solution aqueuse") de [glucides](https://fr.wikipedia.org/wiki/Glucides "Glucides"). Elle résulte d'une [fermentation acétique](https://fr.wikipedia.org/wiki/Fermentation#Fermentation_ac%C3%A9tique "Fermentation") suivie d'une [fermentation alcoolique](https://fr.wikipedia.org/wiki/Fermentation_alcoolique "Fermentation alcoolique").
 
