@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/site/kombucha/kombucha/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/site/kombucha/kombucha/","noteIcon":""}
 ---
 
 
@@ -13,7 +13,7 @@ A cela préférer une biochimie de cuisine, une biochimie des singularités et d
 
 # [[site/Kombucha/Recette Boisson Kombucha\|Recette Boisson Kombucha]]
 
-# [[site/Kombucha/Expérimentations fermentation\|Expérimentations fermentation]]
+# [[site/Kombucha/Expérimentations de fermentation\|Expérimentations de fermentation]]
 
 # [[site/Kombucha/Motif et plaques\|Motif et plaques]]
 
