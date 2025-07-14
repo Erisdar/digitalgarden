@@ -8,7 +8,14 @@ Je produis des récit own-voice mélant féminisme intersectionnel, écologie, p
 
 Je travaille actuellement sur un BD racontant la manifestation de [St Soline  de mars 2023](obsidian://open?vault=Obsidian%20Vault&file=site%2FPortfolio%2FBD#St%Soline)
 
+sur ce site vous trouverez de nombreux projets plus ou moins aboutis divisé 
 
 # [[site/Portfolio/Portfolios\|Portfolios]]
 
-# [[site/Kombucha/Kombucha\|Kombucha]]
+# [[site/Kombucha/Kombucha\|Kombucha]] (Bio-materiaux)
+
+# [Recettes](obsidian://open?vault=Obsidian%20Vault&file=Cuisine%2FRecettes%2FIndex%20Recettes) de cuisine recup
+
+
+
+Ce site à été entièrement construit avec des outils gratuits et en majorité opensource au travers du logiciel [Obsidian](https://obsidian.md/) avec le plug in [digital garden](https://dg-docs.ole.dev/) dans une démarche qui ce veut une réappropriation des outils informatiques. Je ne suis pas informaticien'ne et ce site est le fruit un joyeux tatonnement. 
