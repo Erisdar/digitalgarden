@@ -14,7 +14,7 @@ sur ce site vous trouverez de nombreux projets plus ou moins aboutis divisé
 
 # [[site/Kombucha/Kombucha\|Kombucha]] (Bio-materiaux)
 
-# [Recettes](obsidian://open?vault=Obsidian%20Vault&file=Cuisine%2FRecettes%2FIndex%20Recettes) de cuisine recup
+# [[Cuisine/Recettes/Recettes recup\|Recettes recup]]
 
 
 
