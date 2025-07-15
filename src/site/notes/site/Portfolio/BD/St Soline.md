@@ -9,18 +9,8 @@ Méga bassine 24 – 27 mars 2023
 Récit de luttes et de Bienveillance
 Témoignage de lutte et de douceur
 ____________
-De la manifestation du 25 mars contre la méga bassine de St Soline dans les
-deux sèvres, l’Histoire retiendra sûrement la brutalité de la répression. La
-violence de l’état à travers les médias par le choix des mots : écoterroristes ;
-ultraviolence, extrême gauche … Mais surtout la violence inouïe qui c’est
-abattue sur les 30 000 personnes rassemblées avec 4000 grenades tirées en
-2h par le bras armé de l’état qu’est la gendarmerie.
-L’Histoire retiendra la violence et la terreur – la guerre de l’eau.
-Ce récit n’est pas le nôtre.
-Dans les pages qui vont suivre je veux témoigner, partager, ce que j’ai vu ce
-jour-là : la solidarité, l’entraide, la douceur.
-Une humanité plus forte que les risques, 30 000 personnes les pieds dans
-la boue pour défendre l’héritage des générations à venir : l’eau comme bien
+De la manifestation du 25 mars contre la méga bassine de St Soline dans les deux sèvres, l’Histoire retiendra sûrement la brutalité de la répression. La violence de l’état à travers les médias par le choix des mots : écoterroristes ; ultraviolence, extrême gauche … Mais surtout la violence inouïe qui c’est abattue sur les 30 000 personnes rassemblées avec 4000 grenades tirées en 2h par le bras armé de l’état qu’est la gendarmerie. L’Histoire retiendra la violence et la terreur – la guerre de l’eau. 
+Dans cette BD je veux témoigner, partager, ce que j’ai vu ce jour-là : la solidarité, l’entraide, la douceur. Une humanité plus forte que les risques, 30 000 personnes les pieds dans la boue pour défendre l’héritage des générations à venir : l’eau comme bien
 commun.
 
 
