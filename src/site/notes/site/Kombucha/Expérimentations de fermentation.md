@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/site/kombucha/experimentations-de-fermentation/"}
+{"dg-publish":true,"permalink":"/site/kombucha/experimentations-de-fermentation/","noteIcon":""}
 ---
 
 # Expérimentation 0
 
-J'ai pris un scoby épais du kombucha de ma coloc et je l'ai fait sécher sur le dos de passoire. ![IMG_20241021_132631.jpg](/img/user/IMG_20241021_132631.jpg)
+J'ai pris un scoby épais du kombucha de ma coloc et je l'ai fait sécher sur le dos de passoire. ![IMG_20241021_132631.jpg](/img/user/Projets/KombuSkin/Images/IMG_20241021_132631.jpg)
 
-![IMG_20241021_132636.jpg](/img/user/IMG_20241021_132636.jpg)
+![IMG_20241021_132636.jpg](/img/user/Projets/KombuSkin/Images/IMG_20241021_132636.jpg)
 
-après séchage le motif de strie de la passoire est restée imprimé dans le cuir ![_1070727.jpg](/img/user/_1070727.jpg)
-je l'ai traité à l'huile végétale. Cela a rendu le cuir plus souple mais il faut sens arrêt en remettre et le matériau a beaucoup changer d'aspect. 
+après séchage le motif de strie de la passoire est restée imprimé dans le cuir ![_1070727.jpg](/img/user/Projets/KombuSkin/Images/_1070727.jpg)
+je l'ai traité à l'huile végétale. Cela à rendu le cuir plus souple mais il faut sens arrêt en remettre et le matériau à beaucoup changer d'aspect. 
 les motifs qui reste sont intéressant, je veux continuer à creuser cette piste. 
 ## Expérimentation 1 
 
@@ -67,17 +67,17 @@ Je l'ai recolté le 11/01, nous sommes le 8 et le séchage n'est pas terminé.
 
 la peau a un bel aspect, il y a de légère irrégularité mais c'est assez minime. Je pense que tout disparaitra au sechage. 
 
-![Pasted image 20250118102006.png](/img/user/Projets/LowTech/KombuSkin/Pasted%20image%2020250118102006.png)
+![Pasted image 20250118102006.png](/img/user/Projets/KombuSkin/Images/Pasted%20image%2020250118102006.png)
 22/01/25
 La peau à séchée, elle a en effet perdu ses irrégularités au séchage mais de petites taches sont apparue sur sa surface. On dirait que les pigments ce sont concentré à des endroits aléatoires.
 Durant le séchage, elle a dégagé une intense odeur de vinaigre et elle continue de sentir fort une fois sèche. 
-![_1070702.jpg](/img/user/_1070702.jpg)
+![_1070702.jpg](/img/user/Projets/KombuSkin/Images/_1070702.jpg)
 
-![_1070703.jpg](/img/user/_1070703.jpg)
+![_1070703.jpg](/img/user/Projets/KombuSkin/Images/_1070703.jpg)
 
-![_1070704.jpg](/img/user/_1070704.jpg)
+![_1070704.jpg](/img/user/Projets/KombuSkin/Images/_1070704.jpg)
 
-![_1070705.jpg](/img/user/_1070705.jpg)
+![_1070705.jpg](/img/user/Projets/KombuSkin/Images/_1070705.jpg)
 ## Expérience 3.5 
 
 22/01/25
