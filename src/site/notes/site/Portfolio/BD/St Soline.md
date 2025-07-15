@@ -13,20 +13,13 @@ De la manifestation du 25 mars contre la méga bassine de St Soline dans les deu
 Dans cette BD je veux témoigner, partager, ce que j’ai vu ce jour-là : la solidarité, l’entraide, la douceur. Une humanité plus forte que les risques, 30 000 personnes les pieds dans la boue pour défendre l’héritage des générations à venir : l’eau comme bien
 commun.
 
-
 # Recherches Graphiques
-J’ai décider de travailler mes couleurs en les composants par la
-superposition de 4 couches comportant chacune une couleur
-CMJN. Le résultat final s’approche donc de qu’il est possible
-d’obtenir en sérigraphie ou en risographie et puis que les couches
-sont déjà séparé il serai tout fait envisageable d’imprimé ce projet
-avec ses procédés.
-Ci dessous les 
-En bas de page : les explorations des différentes teintes qu’il est
-possible d’obtenir avec l’échelle de nuance que je me suis fixé..e.
+
+J’ai décider de travailler mes couleurs en les composants par la superposition de 4 couches comportant chacune une couleur CMJN. Le résultat final s’approche donc de qu’il est possible d’obtenir en sérigraphie ou en risographie et puis que les couches sont déjà séparé il serai tout fait envisageable d’imprimé ce projet avec ses procédés.
+.
 
 ![Pasted image 20250715150322.png|700](/img/user/Pasted%20image%2020250715150322.png)
-Panel de couleur possibles selon la superposition des calques CMJN
+les explorations des différentes teintes qu’il est possible d’obtenir avec l’échelle de nuance que je me suis fixé'e
 
 ![Camille.jpg|172](/img/user/Projets/Mega%20Bassine/ressources/Camille.jpg) ![ACAB 1.png|172](/img/user/Projets/Mega%20Bassine/ressources/ACAB%201.png)    ![Eris Refsheet.png|348](/img/user/Projets/Mega%20Bassine/ressources/Eris%20Refsheet.png)
 Recherche de personnages
