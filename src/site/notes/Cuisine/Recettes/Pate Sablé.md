@@ -1,44 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/cuisine/recettes/pate-sable/"}
+{"dg-publish":true,"permalink":"/cuisine/recettes/pate-sable/","noteIcon":""}
 ---
 
 #sucré #base #recette #vegan
 
 # Vegan
-### Ingrédients
 
-- 125 g de margarine de préférence dure
-- 100 g de sucre
-- 40 g de poudre d’amande
-- 40 ml de lait de soja ou autre lait végétal
-- 250 g de farine T55
-- 1 pincée de sel
+- 3 cup de farine 
+- 1 cup d'huile
+- 3 cuillère a soupe de fécule
+- 3 cuillère a soupe de poudre d'amande
+- un peu d'eau 
 
-### Préparation
+optionnel
+- levure chimique (pour faire gonflé si on veut des biscuits)
 
-- À l’aide d’une spatule, mélangez la margarine en pommade, le sucre, la poudre d’amande tamisée et le sel dans un saladier, jusqu’à obtenir une texture homogène.
-    
-    125 g de margarine,100 g de sucre,40 g de poudre d’amande,1 pincée de sel
-    
-- Ajoutez le lait et remuez bien.
-    
-    40 ml de lait de soja
-    
-- Tamisez la farine et mélangez le tout à la fourchette. Ne travaillez surtout pas la pâte, il faut juste que toute la farine soit bien incorporée.
-    
-    250 g de farine
-    
-- Déposez la pâte sur une feuille de papier sulfurisé, et formez une boule en la travaillant le moins possible. Recouvrez-la d’une autre feuille de papier cuisson.
-    
-- Réservez au frais minimum 2 heures (l’idéal étant une nuit complète).
-    
-- Étalez votre boule et foncez votre moule (quel poète !). Piquez la pâte si vous n’utilisez pas de toile Silpat.
-    
-- Remettre au frais pendant 15 minutes. Cette étape évitera aux bords de votre tarte de s’affaisser. Plus la pâte sera froide, plus elle sera saisie et aura de chances de se tenir. Soyez patient !
-    
-- Enfournez dans un four préchauffé à 180°C. La durée dépend grandement de votre four. Comptez 10 à 15 minutes pour une précuisson et 20 à 40 minutes pour une cuisson complète. Gardez donc toujours un œil sur votre fond de tarte et sortez-le dès qu’il est bien doré.
-    
 
+Si sucrée
+- 1 cup de sucre 
+- 1 pincé de sel
+
+
+Si salée
+- sel 
+- levure en paillettes 
+
+
+
+
+mélanges toutes les poudres dans un saladier 
+ajoutes l'huile et mélanger pour former un crumble 
+ajoutes doucement l'eau en mélangeant jusqu'à former une boule qui se tienne (ça reste friable mais la boule doit pouvoir tenir d'elle même)
+
+pour étalé facilement c'est pratique m'émietter la pate puis de la forcé dans le fond de tarte avec les doigts 
+
+pour des biscuits faire de boule et les écraser avec les paumes (attention si vous avez mis de la levure les biscuits vont gonfler et seront plus gros après cuisson)
+Tu peux aussi abaisser la pâte en une plaque de l'épaisseur de ton choix avec un rouleau à patisserie et découper des formes avec un emporte pièce. 
 ### Notes
 
 Les quantités sont données pour :
