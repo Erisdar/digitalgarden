@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cuisine/recettes/creme-amandine-vegan/"}
+{"dg-publish":true,"permalink":"/cuisine/recettes/creme-amandine-vegan/","noteIcon":""}
 ---
 
-#sucré #base #recette #vegan 
+#sucré #base #recette #vegan #sansgluten 
 
 - 300 g de poudre d’amandes
 - 150 g de sucre
@@ -10,6 +10,7 @@
 - 3 càs d’huile neutre
 - 25 cl de crème d’amande (une brique), à défaut crème de soja
 - 1 càc d’arôme d’amande amère
+  
 pour une version a cuire
 - 40 g de fécule
 
