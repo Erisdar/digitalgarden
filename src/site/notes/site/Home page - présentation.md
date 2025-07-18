@@ -8,7 +8,11 @@ Je produis des récit own-voice mélant féminisme intersectionnel, écologie, p
 
 Je travaille actuellement sur une [[site/Portfolio/BD\|BD]] racontant la manifestation de St Soline  de mars 2023
 
-sur ce site vous trouverez de nombreux projets plus ou moins aboutis divisé 
+Sur ce site vous trouverez de nombreux projets plus ou moins abouti
+Le contenu est principalement en français mais il peut occasionnellement arrivé que des textes, ou des sources soit en anglais. 
+
+" jack of all trades, master of none but oftentimes better than a master of one"
+[a interesting article about this phrase](https://medium.com/@gaurav_krishnan/demystifying-the-old-saying-jack-of-all-trades-master-of-none-7ea3de07e240)
 
 # [[site/Portfolio/Portfolios\|Portfolios]]
 
