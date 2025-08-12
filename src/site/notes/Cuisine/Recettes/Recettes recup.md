@@ -11,7 +11,7 @@ au sortir de le seconde guerre mondiale un nouvelle idée est apparu, il fallait
 [[Cuisine/Recettes/Gateau au chocolat base Courge\|Gateau au chocolat base Courge]]
 [[Cuisine/Recettes/galette de Roi vegan\|galette de Roi vegan]]
 [[Cuisine/Recettes/Crème Amandine Vegan\|Crème Amandine Vegan]]
-[[Cuisine/Recettes/Pate Sablé\|Pate Sablé]]
+[[Cuisine/Recettes/Pâte Sablée\|Pâte Sablée]]
 [[Banana Bread \|Banana Bread ]]
 
 # Salé
@@ -21,3 +21,4 @@ au sortir de le seconde guerre mondiale un nouvelle idée est apparu, il fallait
 [[Cuisine/Recettes/Aïoli\|Aïoli]]
 [[Cuisine/Recettes/crème de Brocolie\|crème de Brocolie]]
 [[Cuisine/Recettes/Charcuterie Végétale\|Charcuterie Végétale]]
+[[Cuisine/Recettes/appareil à quiche et tarte vegan\|appareil à quiche et tarte vegan]]
