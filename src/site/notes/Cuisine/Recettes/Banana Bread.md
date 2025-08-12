@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cuisine/recettes/banana-bread/"}
+{"dg-publish":true,"permalink":"/cuisine/recettes/banana-bread/","noteIcon":""}
 ---
 
 ### Ingrédients
